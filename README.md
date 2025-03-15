@@ -14,3 +14,13 @@ Prerequisites
 - Hadoop (>=3.x)
 - Java (>=8)
 
+### Installation Steps
+1. **Clone the repository**  
+   ```bash
+   git clone <your-repo-url>
+   cd <your-repo-folder>
+
+2. **Install dependencies**
+  ```bash
+  pip install -r requirements.txt
+
